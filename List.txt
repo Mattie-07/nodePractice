@@ -1,0 +1,18 @@
+July 27th,2021
+
+The next steps that I'm going to do is make the weeknd picture a bit smaller - then I'm going to work on the next page and ensure that the other pages have the same look and feel as the front one. I can do this. Today was a great day.
+
+Also I would love to add... damnit - im having a brain fart. I was going to say that I wanted to add one more additional thing...I'm not sure what it is or was. But yes, I'm going to add as much to this project as I reasonably can.
+
+As of the next day I have 1309 lines of code on my Weekend Project.
+The goal( hopefully) is to write more and more code each day. I'm going to track how much I can get done today( a day where I am working a full shift at my job) then see where I can go from there!
+
+Also I need to add this to a repo so that it could be visible.
+
+
+
+
+
+Things to fix 
+1)
+    I would like for The Weeknd text to be on the left side of the screen. Im going to keep it where it is for right now, for the sake of progress.

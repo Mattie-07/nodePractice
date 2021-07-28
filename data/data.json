@@ -1,0 +1,47 @@
+{
+    "albums": [{
+        "shortname": "trilogy",
+        "albumname" : "Trilogy",
+        "summary" : "Trilogy is a compilation album by Canadian singer the Weeknd. It was released on November 13, 2012 through XO and distributed by Republic Records. It is composed of re-mixed and remastered versions of his 2011 mixtapes House of Balloons, Thursday, and Echoes of Silence, and three previously-unreleased songs",
+        "peakPositionBillBoard" : "Number Four",
+        "artwork": "Trilogy.png",
+        "tracklist": "1. High For This  2. What You Need(3. House Of Balloons(4. The Morning(5. Wicked Games(6. The Party & The After Party(7. Coming Down(8. Loft Music(9. The Knowing(10. Twenty Eight(11. Lonely Star(12.Life of the Party(13. Thursday(14. The Zone(15. The Birds Pt. 1(16. The Birds Pt.2(17. Gone(18. Rolling Stone(19. Heaven or Las Vegas(20. Valerie(21. D.D.(22. Montreal(23. Outside(24. XO/ The Host(25. Initiation(26. Same Old Song(27. The Fall(28. Next(29. Echoes of Silence(30. Till Dawn",
+        "photo":"stockImage0.jpg",
+        "albumAM": "https://itunes.apple.com/us/album/taylor-swift-bonus-track-version/275621626",
+        "albumSM": "https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3"
+    },{
+    "shortname": "BBtM",
+    "albumname" : "Beauty Behind the Madness",
+    "summary": "Beauty Behind the Madness is the second studio album by Canadian singer the Weeknd. It was released on August 28, 2015, through XO and Republic Records. The album features guest appearances from Labrinth, Ed Sheeran and Lana Del Rey, with production by the Weeknd himself, Kanye West, Stephan Moccio, DaHeala, Illangelo, Ben Billions, DannyBoyStyles, Max Martin, and Ali Payami, among others.",
+    "peakPositionBillBoard" : "Number One",
+    "artwork": "BeautyBehindTheMadness.jpg",
+    "tracklist": "1. Real Life(2. Losers(3. Tell Your Friends(4. Often(5. The Hills(6. Acquainted (7. Can't Feel My Face(8. Shameless(9. Earned it(Fifty Shades of Grey(10. In the night(11. As You Are(12. Dark Times(13. Prisoner(14. Angel",
+    "photo":"stockImage1.jpg",
+    "albumAM": "https://itunes.apple.com/us/album/fearless/295757174",
+    "albumSM": "https://open.spotify.com/album/2dqn5yOQWdyGwOpOIi9O4x"
+},{
+    "shortname": "starboy",
+    "albumname" : "Starboy",
+    "summary": "Starboy is the third studio album by Canadian singer the Weeknd. It was released on November 25, 2016, through XO and distributed by Republic Records. The album features guest appearances from Daft Punk, Lana Del Rey, Kendrick Lamar, and Future. It was supported by seven singles.",
+    "peakPositionBillBoard" : "Number One",
+    "artwork" : "StarBoy.jpg",
+    "tracklist": "1. Starboy(2. Party Monster(3. False Alarm(4. Reminder(5. Rockin'(6. Secrets(7. True Colors(8. Stargirl Interlude(9. Sidewalks(10. Six Feet Under(11. Love to Lay(12. A Lonely Night(13. Attention(14. Ordinary Life(15. Nothing Without You(16. All I Know(17. Die For You(18. I feel It Coming",
+    "photo":"stockImage2.jpg",
+    "albumAM": "https://itunes.apple.com/us/album/speak-now/399727924",
+    "albumSM": "https://open.spotify.com/album/5EpMjweRD573ASl7uNiHym"
+    
+},{
+    "shortname": "afterhours",
+    "albumname" : "After Hours",
+    "summary": "After Hours is the fourth studio album by Canadian singer the Weeknd, released on March 20, 2020, by XO and Republic Records. It was produced primarily by the Weeknd, along with a variety of producers such as DaHeala, Illangelo, Max Martin, Metro Boomin, and OPN, most of whom the Weeknd had worked with previously. The standard edition of the album has no features, although the remixes edition contains guest appearances from Chromatics and Lil Uzi Vert. Thematically, After Hours explores promiscuity, overindulgence, and self-loathing",
+    "peakPositionBillBoard" : "Number One",
+    "artwork" : "afterHours.jpg",
+    "tracklist": "1. Alone Again(2. Too late(3. Hardest to Love(4. Scared to Live(5. Snowchild(6. Escape from LA(7. Heartless(8. Faith(9. Blinding Lights(10. In Your Eyes(11. Save Your Tears(12. Repeat After Me(13. After Hours(14. Until I Bleed Out",
+    "photo":"stockImage3.jpg",
+    "albumAM": "https://itunes.apple.com/us/album/red/571445253",
+    "albumSM": "https://open.spotify.com/album/1EoDsNmgTLtmwe1BDAVxV5"
+},{ 
+    "photo":"stockImage4.jpg"
+}
+]
+}
