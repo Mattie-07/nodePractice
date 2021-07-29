@@ -18,11 +18,16 @@
 </div>
 </div>
 <body >
+    <div class ="container-fluid p-0">
+        <div class ="backgrounds">
+            <div class= "opacity background" style="background-image: url('/images/mic5.jpg') "> </div>
+        </div>
+        </div>
         <header>   
             <div class="headerClass">
                 <div class="weekndText" > <a href="#">The Weeknd</a></div>
                 <ul>
-                    <li>
+                    <li >
                     <a href="/">Home</a>
                     </li>
                     <li>
@@ -37,57 +42,7 @@
                 </ul>
             </div>
         </header>
-
-    <div class = "albumContentContainerBlack">
-        <div class="albumWrapper">
-            <div class="albumRow">
-                <div class="column1">
-                    <div class="albumTextWrapper">
-                        <p class="albumName">Trilogy</p>
-                        <img class="imageDesign" src="/images/<%= coverPhoto[0] %>" alt="Trilogy Album">
-                        <div class="buttonWrapper">
-                            
-                        </div>
-                    </div>
-                </div>
-                <div class="column2"><%=summary[0] %> </div>
-            </div>    
-        </div>
-    </div>
-    <div class = "albumContentContainerWhite">
-        <div class="albumWrapper">
-            <div class="albumRow">
-                <div class="column2">
-                    <div class="albumTextWrapper">
-                        <p class="albumName">Beauty Behind The Madness</p>
-                        <img class="imageDesign" src="/images/<%= coverPhoto[1] %>" alt="Beauty Behind the Madness      Albumn cover art">
-                        <div class="buttonWrapper">
-                            
-                        </div>
-                    </div>
-                </div>
-                <div class="column3"><%=summary[1] %> </div>
-            </div>    
-        </div>
-    </div>
-
-    <div class = "albumContentContainerBlack">
-        <div class="albumWrapper">
-            <div class="albumRow">
-                <div class="column1">
-                    <div class="albumTextWrapper">
-                        <p class="albumName">Trilogy</p>
-                        <img class="imageDesign" src="/images/<%= coverPhoto[0] %>" alt="Trilogy Album">
-                        <div class="buttonWrapper">
-                            
-                        </div>
-                    </div>
-                </div>
-                <div class="column2"><%=summary[0] %> </div>
-            </div>    
-        </div>
-    </div>
-
+<div class = "row justify-content-start">
     <div class = "col-2">
         <h1>Album Name</h1>
     </div>
@@ -100,7 +55,7 @@
     <div class = "col-4 d-flex justify-content-start">
         <h1>Tracklisting</h1>
     </div>
-
+</div>
     <div class="hidden">   
     </div>
     <div class="row justify-content-start">
