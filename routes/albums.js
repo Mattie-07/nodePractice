@@ -9,6 +9,8 @@ router.get('/albums', (req, res) =>{
     let albumName = [];
     let albumTracks = [];
     let albumPeak = [];
+    let appleMusicLink = [];
+    let spotifyMusicLink = [];
     albumInfo.forEach(element =>{
         albumSummary = albumSummary.concat(element.summary)
     })
@@ -24,12 +26,20 @@ router.get('/albums', (req, res) =>{
     albumInfo.forEach(element =>{
         albumPeak = albumPeak.concat(element.peakPositionBillBoard)
     })
+    albumInfo.forEach(element =>{
+        appleMusicLink = appleMusicLink.concat(element.albumAM)
+    })
+    albumInfo.forEach(element =>{
+        spotifyMusicLink = spotifyMusicLink.concat(element.albumSM)
+    })
     res.render("albums", {
         summary: albumSummary,
         coverPhoto: albumPhoto,
         nameOfAlbum: albumName,
         tracks: albumTracks,
         peakPosition: albumPeak,
+        apple:appleMusicLink,
+        spotify:spotifyMusicLink
     })    
 })
 module.exports = router;

@@ -102,7 +102,7 @@ li{
 
 .headerClass{
     display:flex;
-    justify-content:flex-end;
+    justify-content:space-between;
     height:50px;
     top:0;
     padding: 0 24px;
@@ -192,6 +192,24 @@ li{
 }
 
 .buttonWrapper{
-    max-width: 555px;
-    height:100%;
+    display:inline;
+    justify-content: flex-start;
+}
+.buttonStyle{
+    border-radius: 50px;
+    background:#01bf71;
+    white-space: nowrap;
+    padding:7px 20px;
+    color:#010606;
+    font-size: 13px;
+    outline:none;
+    border:none;
+    cursor: pointer;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    transition: all .2s ease-in-out;
+    margin:5px;
+
+
 }

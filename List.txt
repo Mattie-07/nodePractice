@@ -1,5 +1,7 @@
 July 27th,2021
 
+***TO DO LIST*****
+
 CHECKED
 The next steps that I'm going to do is make the weeknd picture a bit smaller - then I'm going to work on the next page and ensure that the other pages have the same look and feel as the front one. I can do this. Today was a great day.
 CHECKED
@@ -12,14 +14,20 @@ The next thing that I will work on tomorrow is making sure that I can create and
 
 
 
+****LINES OF CODE***
 As of the next day I have 1309 lines of code on my Weekend Project.
 The goal( hopefully) is to write more and more code each day. I'm going to track how much I can get done today( a day where I am working a full shift at my job) then see where I can go from there!
 
+7/30/2021
+1565 code LINES
 
 
 
 
-Things to fix 
+
+
+
+***THINGS TO FIX*****
 1)
     I would like for The Weeknd text to be on the left side of the screen. Im going to keep it where it is for right now, for the sake of progress.
 
@@ -27,5 +35,7 @@ Things to fix
 
 
 
+
+******COOL THINGS****
 Things I found out that are pretty cool 
     1) I just figured out how the gird templates work a little bit more. I can add as many columns to my row as I would like and then I can specify exactly what goes in that column by specifiying that property. I could do the same for each category that I have.
