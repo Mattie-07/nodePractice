@@ -1,1 +1,5 @@
 To keep the project looking clean I can remove having the track list on their and maybe just have a link that would show that information. Also something that would really nice that could work is sending someone to spotify or Youtube if they want to h ear the playlist of that music in order for them to get more familiar with the albumn.
+
+As of right now im satisfied with the design and look for the albums page. Of course, I can always improve it later and add something else to make it even more fluid or make it pop somehow. I could look at some other designs and get some inspiration.
+
+Now, I need to code my way to a better forum on the forum page. And programmatically it has to be improved as well. I haven't really dived deep into it in awhile but Im sure its not perfect as of yet.

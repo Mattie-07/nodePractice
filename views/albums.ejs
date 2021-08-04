@@ -92,103 +92,23 @@
         </div>
     </div>
 
-    <div class = "col-2">
-        <h1>Album Name</h1>
-    </div>
-    <div class = "col-1">
-        <h1>Peak Billboard position</h1>
-    </div>
-    <div class="col-5 d-flex justify-content-center">
-        <h2> Summary</h2>
-    </div>
-    <div class = "col-4 d-flex justify-content-start">
-        <h1>Tracklisting</h1>
-    </div>
-
-    <div class="hidden">   
-    </div>
-    <div class="row justify-content-start">
-        <div class = "col-2 cursive">
-            <span><%= nameOfAlbum[0] %> </span>
-        </div>
-        <div class = "col-1 cursive">
-            <span> <%=peakPosition[0] %> </span>
-        </div>
-        <div class="col-4 ">
-            <span style="font-size: 30px;"> <%=summary[0] %> </span>
-        </div>
-        <div class = "col-3">
-            <p style="font-size: medium;" class = "yellow"> <%= tracks[0] %>` </p>
-        </div>
-        <div class="col-2">
-            <img src="/images/<%= coverPhoto[0]  %>" alt="">
+    <div class = "albumContentContainerWhite">
+        <div class="albumWrapper">
+            <div class="albumRow">
+                <div class="column2">
+                    <div class="albumTextWrapper">
+                        <p class="albumName">After Hours</p>
+                        <img class="imageDesign" src="/images/<%= coverPhoto[3] %>" alt="AfterHours Albumn cover art">
+                        <div class="buttonWrapper">
+                            <a href="<%= apple[3] %>"><button class="buttonStyle">AppleMusic Preview</button></a>
+                            <a href="<%= spotify[3] %>"><button class="buttonStyle">Spotify Preview</button></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="column1"><%=summary[3] %> </div>
+            </div>    
         </div>
     </div>
-    <div class = "col-12">
-        <div class="hidden">   
-        </div>
-    </div>
-    <div class="row justify-content-start">
-        <div class = "col-2 cursive">
-            <span><%= nameOfAlbum[1] %> </span>
-        </div>
-        <div class = "col-1 cursive">
-            <span> <%=peakPosition[1] %> </span>
-        </div>
-        <div class="col-4">
-            <span style="font-size: 30px;"> <%=summary[1] %> </span>
-        </div>
-        <div class = "col-3">
-            <p style="font-size: medium;" class = "yellow"> <%= tracks[1] %> </p>
-        </div>
-        <div class="col-2 ">
-            <img src="/images/<%= coverPhoto[1] %>"  style="height: 300px"alt="weeknd">
-        </div>
-    </div>
-    <div class="hidden">   
-    </div>
-    <div class="row justify-content-start">
-        <div class = "col-2 cursive">
-            <span><%= nameOfAlbum[2] %> </span>
-        </div>
-        <div class = "col-1 cursive">
-            <span> <%=peakPosition[2] %> </span>
-        </div>
-        <div class="col-4 ">
-            <span style="font-size: 30px;"> <%=summary[2] %> </span>
-        </div>
-        <div class = "col-3">
-            <p style="font-size: medium;" class = "yellow"> <%= tracks[2] %> </p>
-        </div>
-        <div class="col-2">
-            <img src="/images/<%= coverPhoto[2] %>" style="height: 300px" alt="">
-        </div>
-    </div>
-    <div class="hidden">   
-    </div>
-    <div class="row justify-content-center">
-        <div class = "col-2 cursive">
-            <span><%= nameOfAlbum[3] %> </span>
-        </div>
-        <div class = "col-1 cursive">
-            <span> <%=peakPosition[3] %> </span>
-        </div>
-        <div class="col-4">
-            <span style="font-size: 27px;"> <%=summary[3] %> </span>
-        </div>
-        <div class = "col-3">
-            <p style="font-size: medium;" class = "yellow"> <%= tracks[3] %> </p>
-        </div>
-        <div class="col-2">
-            <img src="/images/<%= coverPhoto[3] %>" style="height:225px" alt="">
-        </div>
-    </div>
-
-
-
-
-
-
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
