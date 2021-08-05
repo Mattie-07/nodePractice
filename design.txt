@@ -3,3 +3,7 @@ To keep the project looking clean I can remove having the track list on their an
 As of right now im satisfied with the design and look for the albums page. Of course, I can always improve it later and add something else to make it even more fluid or make it pop somehow. I could look at some other designs and get some inspiration.
 
 Now, I need to code my way to a better forum on the forum page. And programmatically it has to be improved as well. I haven't really dived deep into it in awhile but Im sure its not perfect as of yet.
+
+For the design of the forum page I could do something different entirely, and just have it to where there would be a random topic that would generate and people could talk about that one thing. I mean, it doesn't sound too bad but what else would be pretty dope that someone would want to see from a fan page?
+    There could be a way fom someone to comment on the art that has been added to the page too. That would be a thing.
+    Lets probably run with this until I come up with a better solution. I like it because it does have some user engangement, and it s not like someone would come to the site just to talk about anything, even though they absolutely could. Having a prompt( the art work) would be a way to encourage that.

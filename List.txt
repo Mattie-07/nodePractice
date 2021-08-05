@@ -7,8 +7,10 @@ The next steps that I'm going to do is make the weeknd picture a bit smaller - t
 CHECKED
 Also I need to add this to a repo so that it could be visible.
 
+CHECKED
 I need to make sure that the page kinda looks similiar to my other one where I have one album that has a lot of info and then it changes to another background color for the next album. The code is going to be long for this one page but it will definitely be worth it.
 
+CHECKED
 The next thing that I will work on tomorrow is making sure that I can create and style a consisent button that I could use inisde of my css file. That way I can continue to use one of a couple of buttons that I created and then after that I can adjust where it is going to be and the words inside as well. 
     I would do this tonight but its going to take a little bit of time to actually decide how I want the button and position it correctly. What im going to spend the rest of the night doing it trying to get the design for the rest of the page looking more consistent by adding a bit more content.
 
@@ -29,8 +31,10 @@ The goal( hopefully) is to write more and more code each day. I'm going to track
 
 ***THINGS TO FIX*****
 1)
+CHECKED
     I would like for The Weeknd text to be on the left side of the screen. Im going to keep it where it is for right now, for the sake of progress.
 
+CHECKED
 2) What I could do it maek sure that the albums are put in different sections- like the first one woud havea black bacgkround nand the other would havea a lighter colo.
 
 
