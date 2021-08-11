@@ -19,6 +19,7 @@ August 5th, 2012.
     The next step is to work on the design of the chat / artwork page. I need to change the name of the forum page to artwork actually. Then I'm going to fiddle around with the design of that page until I can find something that I would like. Right now, I'm using Tumblr as a template since they have a good thing going on, and on top of that, they have a great example I could follow just by going to their website. I got this!
 
     I thought of a great idea! I could also put on the page, the tour dates that are upcoming for The Weeknd. I think that is something that fans would defniitley want to know!
+            I need to be able to get the images like I do from the object that contains the information thats displayed on the index came. 
 
 
 

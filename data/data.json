@@ -41,5 +41,18 @@
     "albumAM": "https://music.apple.com/us/album/after-hours/1499378108",
     "albumSM": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
 }
-]
+],
+    "artwork":[{
+        "art":"fanart0.jpg"},{
+        "art":"fanart1.jpg"},{
+        "art":"fanart2.jpg"},{
+        "art":"fanart3.jpg"},{
+        "art":"fanart4.jpg"},{
+        "art":"fanart5.jpg"},{
+        "art":"fanart6.jpg"},{
+        "art":"fanart7.jpg"},{
+        "art":"fanart8.jpg"},{
+        "art":"fanart9.jpg"},{
+        "art":"fanart10.jpg"}
+    ]
 }
