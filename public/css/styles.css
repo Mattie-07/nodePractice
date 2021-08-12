@@ -70,7 +70,7 @@ a{
     color:rgb(252, 65, 65)
 }
 
-img{
+.heroImage{
     box-shadow: 2px 4px 4px #888888;
     width:400px;
 }
@@ -219,4 +219,35 @@ li{
     width:100%;
     height:100vh;
     background: #08092c;
+}
+
+.card{
+    width:450px;
+    border: none;
+    box-shadow: 5px 5px 5px 2px #020c0c;
+    border-radius:12px;
+}
+
+.thumbContainer{
+    width:100%;
+}
+
+.newnew{
+    color:red;
+    font-size: 1.8rem;
+}
+.newnew:hover{
+    color:red;
+    background-color: purple;
+}
+.thumbs-up:hover{
+    color:#fff;
+    background-color: green;
+    border:1px solid green
+}
+
+.thumbs-down:hover{
+    color:#fff;
+    background-color: red;
+    border:1px solid red;
 }

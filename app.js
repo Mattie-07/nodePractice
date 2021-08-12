@@ -7,6 +7,7 @@ app.use(express.static("public"));
 app.use(require('./routes/index'))
 app.use(require('./routes/albums'))
 app.use(require('./routes/forums'))
+app.use(require('./routes/fanart'))
 
 
 let server = app.listen(2000, () =>{
