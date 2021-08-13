@@ -85,7 +85,6 @@ a{
 }
 .forumPads{
     padding:20px;
-
 }
 
 /* the 2nd time */
@@ -222,7 +221,7 @@ li{
 }
 
 .card{
-    width:450px;
+    width:250px;
     border: none;
     box-shadow: 5px 5px 5px 2px #020c0c;
     border-radius:12px;
@@ -230,20 +229,22 @@ li{
 
 .thumbContainer{
     width:100%;
+    display:flex;
+    align-items: center;
+    justify-content:space-around;
+    font-size: 35px;
+    margin:5px;
 }
 
-.newnew{
-    color:red;
-    font-size: 1.8rem;
+.thumbClass{
+    color:rgb(216, 109, 10);
+    font-size: 20px;
 }
-.newnew:hover{
-    color:red;
-    background-color: purple;
-}
-.thumbs-up:hover{
-    color:#fff;
-    background-color: green;
-    border:1px solid green
+.thumbClass:hover{
+    color:green;
+    transition:all .5s ease-in-out;
+    box-shadow: 2px 2px 2px black;
+ 
 }
 
 .thumbs-down:hover{
