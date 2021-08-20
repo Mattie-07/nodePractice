@@ -34,15 +34,29 @@
             </ul>
         </div>
     </header>
-    <div class="card">
-        <img src="/images/<%= art[0] %>" alt="image" >
-            <div class="thumbContainer">
-                <i class="fa fa-thumbs-up thumbClass"></i>
-                <i class="fa fa-thumbs-down thumbClass"></i>
-                </div>
+
+    <div id="cardContainer">
+    </div>
             
     </div>
     
+    <script>
+        for(var x = 0; x < 10; x++){
+            let artCard = document.querySelector("#cardContainer");
+            let innerDataOfCard = document.createElement('div');
+            innerDataOfCard.setAttribute("class", "card");
+            innerDataOfCard.innerHTML = `
+                <div class="card">
+                <img src="/images/<%= art[0] %>" alt="image" >
+                <div class="thumbContainer">
+                    <i class="fa fa-thumbs-up thumbUpClass"></i>
+                    <i class="fa fa-thumbs-down thumbDownClass"></i>
+                </div>
+            `
+            artCard.appendChild(innerDataOfCard);
+        }
+        
+    </script>
 
 
 

@@ -21,7 +21,10 @@ August 5th, 2012.
     I thought of a great idea! I could also put on the page, the tour dates that are upcoming for The Weeknd. I think that is something that fans would defniitley want to know!
             I need to be able to get the images like I do from the object that contains the information thats displayed on the index came. 
 
-    The next thing that I'm going to do is fix the thumbs up and thumbs down icons on the picture so that I would have the ability to increase the size if I need to. In the original code that I got it from, the thumbs were already big, I just need to find out what was done and copy that same thing. 
+**CHECKED**
+    The next thing that I'm going to do is fix the thumbs up and thumbs down icons on the picture so that I would have the ability to increase the size if I need to. In the original code that I got it from, the thumbs were already big, I just need to find out what was done and copy that same thing.
+*
+
     My end product should give those thumbs some type of functionality. For right now though, I want them to look good and when someone hovers over them they will see an effect.
 
 

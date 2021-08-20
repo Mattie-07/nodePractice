@@ -226,6 +226,11 @@ li{
     box-shadow: 5px 5px 5px 2px #020c0c;
     border-radius:12px;
 }
+.card:hover{
+    transition:all .3s ease-in-out;
+    box-shadow: 7px 7px 7px 4px #020c0c;
+
+}
 
 .thumbContainer{
     width:100%;
@@ -236,15 +241,25 @@ li{
     margin:5px;
 }
 
-.thumbClass{
+.thumbUpClass{
     color:rgb(216, 109, 10);
     font-size: 20px;
 }
-.thumbClass:hover{
+.thumbDownClass{
+    color:rgb(216, 109, 10);
+    font-size: 20px;
+}
+.thumbUpClass:hover{
     color:green;
-    transition:all .5s ease-in-out;
-    box-shadow: 2px 2px 2px black;
- 
+    transition:all .3s ease-out;
+    text-shadow: 7px 0 8px black;
+
+}
+.thumbDownClass:hover{
+    color:rgb(245, 10, 2);
+    transition:all .3s ease-out;
+    text-shadow: 7px 0 8px black;
+
 }
 
 .thumbs-down:hover{
