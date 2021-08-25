@@ -45,13 +45,13 @@
             let artCard = document.querySelector("#cardContainer");
             let innerDataOfCard = document.createElement('div');
             innerDataOfCard.setAttribute("class", "card");
+            
             innerDataOfCard.innerHTML = `
-                <div class="card">
-                <img src="/images/<%= art[0] %>" alt="image" >
-                <div class="thumbContainer">
-                    <i class="fa fa-thumbs-up thumbUpClass"></i>
-                    <i class="fa fa-thumbs-down thumbDownClass"></i>
-                </div>
+                    <img src="/images/<%= art[x] %>"alt="image" >
+                    <div class="thumbContainer">
+                        <i class="fa fa-thumbs-up thumbUpClass"></i>
+                        <i class="fa fa-thumbs-down thumbDownClass"></i>
+                    </div>
             `
             artCard.appendChild(innerDataOfCard);
         }

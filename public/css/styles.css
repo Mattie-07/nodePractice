@@ -220,12 +220,22 @@ li{
     background: #08092c;
 }
 
+#cardContainer{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
 .card{
     width:250px;
     border: none;
     box-shadow: 5px 5px 5px 2px #020c0c;
     border-radius:12px;
+    margin:7px;
+    
 }
+
 .card:hover{
     transition:all .3s ease-in-out;
     box-shadow: 7px 7px 7px 4px #020c0c;
@@ -233,12 +243,17 @@ li{
 }
 
 .thumbContainer{
-    width:100%;
     display:flex;
+    flex-direction:row;
     align-items: center;
     justify-content:space-around;
     font-size: 35px;
     margin:5px;
+    flex-wrap: nowrap;
+}
+.container div{
+    width:50%;
+    height:200px;
 }
 
 .thumbUpClass{
