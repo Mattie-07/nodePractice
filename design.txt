@@ -7,3 +7,13 @@ Now, I need to code my way to a better forum on the forum page. And programmatic
 For the design of the forum page I could do something different entirely, and just have it to where there would be a random topic that would generate and people could talk about that one thing. I mean, it doesn't sound too bad but what else would be pretty dope that someone would want to see from a fan page?
     There could be a way fom someone to comment on the art that has been added to the page too. That would be a thing.
     Lets probably run with this until I come up with a better solution. I like it because it does have some user engangement, and it s not like someone would come to the site just to talk about anything, even though they absolutely could. Having a prompt( the art work) would be a way to encourage that.
+
+I was goign to have an image on the feedback page but on second thought, I think it would be better if I just centered everything and allowed anyone who wants to make a post, click the post button in order for them to add a message to the board. Of course, this is going to take some back - end work as well in order for the data to be saved but I can at least code the design behind what I want to accomplish in order for that to be set up properly
+        Container
+            Boards and post Button
+                Topics / Replies/ and lost post
+                    Messages which would dynamically update based on the user
+
+
+The to-do list I did with Ed should be a great starting point to how I want the layout to be for my site.
+

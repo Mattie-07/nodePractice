@@ -33,6 +33,7 @@
     position:relative;
     z-index: 1;
 }
+
     
 
     .cursive{
@@ -211,13 +212,6 @@ li{
     align-items: center;
     transition: all .2s ease-in-out;
     margin:5px;
-
-}
-
-.mainContainer{
-    width:100%;
-    height:100vh;
-    background: #08092c;
 }
 
 #cardContainer{
@@ -281,4 +275,30 @@ li{
     color:#fff;
     background-color: red;
     border:1px solid red;
+}
+
+.forumContainer{
+    display:flex;
+    position:relative;
+    height:75vh;
+    width: 100%;
+    
+    z-index: 1;
+}
+#forum ul{
+    height: 50px;
+    width:100%;
+    position: absolute;
+    color:green;
+    justify-content: space-between;
+}
+
+.heroSection {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    padding:80px 80px;
+    height:700px;
+    position:relative;
+    z-index: 1;
 }
